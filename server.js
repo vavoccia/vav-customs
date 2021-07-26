@@ -6,7 +6,7 @@ const path = require("path");
 const fs = require("fs");
 const { isBuffer } = require("util");
 //const connectDB = require("./database/connection");
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: true }));
 app.use(morgan("tiny"));
 //console.log(process.env.MONGO_URI);
 //connectDB();
