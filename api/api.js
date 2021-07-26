@@ -6,7 +6,7 @@ exports.gridImages = (req, res) => {
     else {
       res.send(
         files.filter((file) => {
-          return file.includes("*.*");
+          return file.includes(".js");
         })
       );
     }
