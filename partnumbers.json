@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60e5eb5df416c02ed49ea3f2"
+  },
+  "boardfeature": 16000001,
+  "capacitor": 16100009,
+  "connector": 16300001,
+  "crystals": 17200001,
+  "diode": 16400001,
+  "ferrite": 16500001,
+  "filter": 16600001,
+  "inductor": 16800002,
+  "ic": 16700020,
+  "led": 16900001,
+  "misc": 17700001,
+  "microphone": 17000001,
+  "resistor": 17400002,
+  "sensor": 17500001,
+  "switch": 17600001,
+  "transistor": 17100001
+}]
